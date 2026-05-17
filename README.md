@@ -169,4 +169,4 @@ jupyter notebook notebooks/eda.ipynb
 
 # Conclusión
 
-Este proyecto demuestra un flujo completo de Exploratory Data Analysis utilizando una estructura modular y reproducible. El análisis permite identificar tendencias relevantes del catálogo de Netflix y demuestra habilidades prácticas en limpieza de datos, feature engineering, visualización y organización de proyectos de Data Science.
+Este proyecto demuestra un flujo completo de Exploratory Data Analysis utilizando una estructura modular y reproducible. El análisis permite identificar tendencias relevantes del catálogo de Netflix y demuestra habilidades prácticas en limpieza de datos, feature engineering, visualización y organización de proyectos de Data Science..
